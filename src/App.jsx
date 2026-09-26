@@ -7,7 +7,7 @@ function App() {
       <div className='text-center p-5'>
         <p>Hello there</p>
         <Dashboard/>
-        I am Abhishek
+        I am Abhishek Ambure
       </div>
     </>
   )

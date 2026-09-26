@@ -8,6 +8,7 @@ function App() {
         <p>Hello there</p>
         <Dashboard/>
         I am Abhishek Ambure
+        Welcome to my portfolio
       </div>
     </>
   )

@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className='text-center p-5'>
-        <p>Hello there</p>
+        <p className="text-3xl font-bold text-blue-600">Hello there</p>
         <Dashboard/>
         I am Abhishek Ambure
         Welcome to my portfolio
